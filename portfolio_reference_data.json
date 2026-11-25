@@ -1,0 +1,50 @@
+{
+  "POR001": {
+    "cash_balance": 50000,
+    "restricted_securities": ["XYZCORP"],
+    "max_position_pct": 0.30,
+    "current_holdings": [
+      ["AAPL", 100, 155],
+      ["TCS", 50, 310],
+      ["INFY", 20, 1500]
+    ]
+  },
+  "POR002": {
+    "cash_balance": 50000,
+    "restricted_securities": [],
+    "max_position_pct": 0.25,
+    "current_holdings": [
+      ["GOOGL", 20, 1950],
+      ["AAPL", 50, 150]
+    ]
+  },
+  "POR003": {
+    "cash_balance": 100000,
+    "restricted_securities": ["BADCO"],
+    "max_position_pct": 0.25,
+    "current_holdings": [
+      ["RELIANCE", 30, 2400],
+      ["TCS", 25, 300],
+      ["INFY", 10, 1500]
+    ]
+  },
+  "POR004": {
+    "cash_balance": 75000,
+    "restricted_securities": [],
+    "max_position_pct": 0.20,
+    "current_holdings": [
+      ["GOOGL", 10, 2000],
+      ["AAPL", 100, 145]
+    ]
+  },
+  "POR005": {
+    "cash_balance": 27100,
+    "restricted_securities": [],
+    "max_position_pct": 0.25,
+    "current_holdings": [
+      ["PENNY1", 100, 12],
+      ["AAPL", 30, 150],
+      ["TCS", 20, 250]
+    ]
+  }
+}
